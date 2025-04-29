@@ -21,11 +21,13 @@ Explore the different facets of my online presence:
     * **Data Structures & Algorithms:** Arrays, Linked Lists, Trees, Graphs, Recursion, Sorting, Searching.
     * **IoT Platforms:** Arduino, NodeMCU, Raspberry Pi.
     * **Tools:** GitHub, VS Code, Excel, React, LeetCode, HackerRank, GFG, MS Office, AWS basics, Thinkspeak, Blynk.
+      
 * **📂 Projects:** A showcase of my key projects, each presented with:
     * A concise title and description.
     * A list of the technologies utilized.
     * Highlights of the key features implemented.
     * A direct link to the live project or its GitHub repository (where applicable).
+      
 * **🏆 Certifications:** A dedicated section highlighting the certifications I've earned, demonstrating my commitment to continuous learning and achievement.
 * **📧 Contact Me:** A functional contact form for visitors to send me direct messages, fostering opportunities for collaboration and connection.
 * **📱 Responsive Design:** The website is built to adapt seamlessly to various screen sizes, ensuring a consistent and user-friendly experience on desktops, tablets, and mobile devices.
